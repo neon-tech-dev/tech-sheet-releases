@@ -49,7 +49,7 @@ It runs on a laptop connected to the show network.
 ## First run
 
 1. Choose **Show Device → Sign in with Google**, using the Google account that can open your show's sheet.
-2. Paste the sheet's link.
+2. Pick your show sheet in Google's file picker (once on each computer).
 3. Connect the laptop to the show network and run an audit.
 
 During the beta, your Google account has to be added to the tester list before
