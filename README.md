@@ -34,6 +34,8 @@ It runs on a laptop connected to the show network.
    place.
 3. The beta build isn't code-signed yet, so Windows may show
    **"Windows protected your PC"**. Click **More info → Run anyway**.
+4. If Windows asks whether to allow Raster Tech Sheet on private networks, click
+   **Allow**. Otherwise phones on the show network can't reach the dashboard.
 
 ### macOS
 
