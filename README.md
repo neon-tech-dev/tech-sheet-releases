@@ -52,10 +52,12 @@ It runs on a laptop connected to the show network.
 2. Pick your show sheet in Google's file picker (once on each computer).
 3. Connect the laptop to the show network and run an audit.
 
-During the beta, your Google account has to be added to the tester list before
-sign-in works. Ask for it (see below). You may be asked to sign in again about once a week.
-
 The full beta guide is attached to each release.
+
+## Privacy
+
+We only ever access the one show sheet you pick. See the
+[privacy policy](https://raster-tech.github.io/privacy).
 
 ## Help
 
