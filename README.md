@@ -39,6 +39,9 @@ It runs on a laptop connected to the show network.
 
 ### macOS
 
+Needs an Apple Silicon Mac (M1 or later) running macOS 14 Sonoma or later. Intel
+Macs and macOS 13 or earlier aren't supported.
+
 1. Download `RasterTechSheet-<version>.dmg` from [Releases](../../releases/latest), open it and
    drag **Raster Tech Sheet** into Applications. If you had Neon Tech Sheet, delete it.
 2. The beta build isn't notarized yet, so macOS may block it the first time.
@@ -61,8 +64,8 @@ We only ever access the one show sheet you pick. See the
 
 ## Help
 
-Questions or problems: message Kevin directly.
+Questions or problems: use Send feedback in the app, or email support@rastertech.app.
 
 ---
 
-Tech Sheet by Raster. Built by Kevin Downing, a Broadway video engineer.
+Tech Sheet by Raster.
